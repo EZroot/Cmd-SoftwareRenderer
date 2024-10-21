@@ -1,4 +1,4 @@
-`# Cmd-SoftwareRenderer
+# Cmd-SoftwareRenderer
 
 <img src="https://raw.githubusercontent.com/EZroot/Cmd-SoftwareRenderer/refs/heads/main/Cmd-SoftwareRenderer/screenshots/softwarerenderercube.gif?token=GHSAT0AAAAAACWA5PJTZDHUXYTQVKSNIYQKZYVU2OQ" alt="Software Renderer Demo" width="400"/>
 
