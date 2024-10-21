@@ -1,8 +1,6 @@
-using System;
 using System.Text;
-using System.Threading;
 using System.Diagnostics;
-namespace Console3DRenderer
+namespace CmdSoftwareRenderer
 {
     class Program
     {
